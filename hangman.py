@@ -30,8 +30,7 @@ def choose_word(wordlist):
     return random.choice(wordlist)
 
 
-# Load the list of words into the variable wordlist
-# so that it can be accessed from anywhere in the program
+# Load the list of words into the variable wordlist so that it can be accessed from anywhere in the program
 wordlist = load_words()
 
 
