@@ -1,6 +1,6 @@
 # Hangman-Word-Guessing-Game
 
-This application is a version of the Hangman word guessing game, where a player must guess the secret word within a limited amount of guesses. I used Python and a words.txt file to create this game. Here are the rules:
+This application is a version of the Hangman word guessing game, where a player must guess the secret word within a limited amount of guesses. I used Python and a words.txt file to create this game. The rules to the game are as follows:
 1. The user starts off with 6 guesses and 3 warnings.
 2. The user loses a warning if they perform any of the following actions:
     - Enters anything besides an alphabet
